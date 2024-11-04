@@ -7,10 +7,10 @@ MERN Stack Developer and Team Lead
 Fullstack Developer with 3.5+ years of experience crafting robust web applications. I specialize in architecting scalable solutions using modern web technologies.
 #### 💻 Tech Stack
 
-Frontend: React.js, Next.js, TypeScript, Redux
-Backend: Laravel, Node.js
-DevOps: AWS, DigitalOcean, Jenkins, GitHub Actions
-Databases: MySQL, PostgreSQL, MariaDB, SupaBase
+<u>Frontend:</u> React.js, Next.js, TypeScript, Redux
+<u>Backend:</u> Laravel, Node.js
+<u>DevOps:</u> AWS, DigitalOcean, Jenkins, GitHub Actions
+<u>Databases:</u> MySQL, PostgreSQL, MariaDB, SupaBase
 
 #### 🚀 What I Do
 
