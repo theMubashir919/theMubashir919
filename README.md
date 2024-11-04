@@ -8,8 +8,11 @@ Fullstack Developer with 3.5+ years of experience crafting robust web applicatio
 #### 💻 Tech Stack
 
 Frontend: React.js, Next.js, TypeScript, Redux
+
 Backend: Laravel, Node.js
+
 DevOps: AWS, DigitalOcean, Jenkins, GitHub Actions
+
 Databases: MySQL, PostgreSQL, MariaDB, SupaBase
 
 #### 🚀 What I Do
