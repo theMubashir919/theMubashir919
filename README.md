@@ -4,7 +4,35 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 MERN Stack Developer and Team Lead
 ----------------------------------
 
-Fullstack Developer with 3.5+ years of experience crafting robust web applications. I specialize in architecting scalable solutions using modern web technologies. 💻 Tech Stack: Frontend: React.js, Next.js, TypeScript, Redux Backend: Laravel, Node.js DevOps: AWS, DigitalOcean, Jenkins, GitHub Actions Databases: MySQL, PostgreSQL, MariaDB, SupaBase 🚀 What I Do Build high-performance, scalable web applications with React.js/Next.js Implement complex state management solutions using Redux and Context API Design and develop robust backend systems with Laravel and Node.js Set up and manage CI/CD pipelines and DevOps workflows Specialize in internationalization (i18n), particularly for Arabic & English web apps Lead and mentor junior developers while fostering collaborative environments 🌟 Recent Projects Led development of FayvoX - A user experience sharing platform Architected Evision - A CMS application based on Saudi Vision 2030 Developed Al Saud Figures - A platform highlighting prominent Saudi women achievers 🎯 Interests Server-side rendering (SSR) and static site generation (SSG) Performance optimization and scalable architecture DevOps practices and infrastructure automation Modern web development patterns and best practices
+Fullstack Developer with 3.5+ years of experience crafting robust web applications. I specialize in architecting scalable solutions using modern web technologies.
+#### 💻 Tech Stack
+
+Frontend: React.js, Next.js, TypeScript, Redux
+Backend: Laravel, Node.js
+DevOps: AWS, DigitalOcean, Jenkins, GitHub Actions
+Databases: MySQL, PostgreSQL, MariaDB, SupaBase
+
+#### 🚀 What I Do
+
+Build high-performance, scalable web applications with React.js/Next.js
+Implement complex state management solutions using Redux and Context API
+Design and develop robust backend systems with Laravel and Node.js
+Set up and manage CI/CD pipelines and DevOps workflows
+Specialize in internationalization (i18n), particularly for Arabic & English web apps
+Lead and mentor junior developers while fostering collaborative environments
+
+#### 🌟 Recent Projects
+
+Led development of FayvoX - A user experience sharing platform
+Architected Evision - A CMS application based on Saudi Vision 2030
+Developed Al Saud Figures - A platform highlighting prominent Saudi women achievers
+
+#### 🎯 Interests
+
+Server-side rendering (SSR) and static site generation (SSG)
+Performance optimization and scalable architecture
+DevOps practices and infrastructure automation
+Modern web development patterns and best practices
 
 * 🌍  I'm based in Lahore
 * 🖥️  See my portfolio at [LinkedIn](http://linkenin.com/in/mubashir-akmal)
